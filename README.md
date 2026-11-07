@@ -1,4 +1,4 @@
-# VACP-CVDP-TEHI-2026
+# VACP-CVDP
 
 Reproducibility repository for the research study:
 
